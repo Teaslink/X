@@ -3,4 +3,4 @@
 [Panel]
 timecard = script-name=timecard,update-interval=3600
 [Script]
-timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/teaslink/Rules/master/own/Script/Timecard.js
+timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/teaslink/Surge/main/Script/Timecard.js
