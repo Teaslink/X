@@ -1,0 +1,95 @@
+[General]
+# 通用设置
+# > All Hybrid 网络并发
+all-hybrid = false
+ipv6 = false
+# > 允许 Wi-Fi 访问 (仅 iOS，若允许远程访问将「false」改为「true」)
+allow-wifi-access = false
+wifi-access-http-port = 6152
+wifi-access-socks5-port = 6153
+# > 允许 Wi-Fi 访问 (仅 macOS，若允许远程访问将「127.0.0.1」改为「0.0.0.0」)
+http-listen = 127.0.0.1:6152
+socks5-listen = 127.0.0.1:6153
+internet-test-url = http://www.aliyun.com
+# internet-test-url = http://wifi.vivo.com.cn/generate_204
+proxy-test-url = http://www.gstatic.com/generate_204
+test-timeout = 5
+# > 自定义 GeoIP 数据库 二选一
+geoip-maxmind-url = https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+# geoip-maxmind-url = https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb
+# > 排除简单主机名
+exclude-simple-hostnames = true
+# > DNS 服务器 (如无必要不建议使用 DNS over HTTPS)
+dns-server = system, 119.29.29.29, 223.5.5.5, 223.6.6.6
+# doh-server = https://223.5.5.5/dns-query
+hijack-dns = 8.8.8.8:53, 8.8.4.4:53
+# > 从/etc/hosts 读取DNS记录
+read-etc-hosts = true
+# > 远程控制器
+http-api-web-dashboard = false
+use-default-policy-if-wifi-not-primary = false
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, *.crashlytics.com, *.edu.cn, *.evernote.com, *.yinxiang.com
+# 高级设置
+# > 日志级别
+loglevel = notify
+show-error-page-for-reject = true
+# always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
+# > UDP IP 防泄漏
+# 如果没有代理服务器支持 UDP 转发，可修改为「 direct 」或注释下条，但需注意同一目标主机名 TCP 请求与 UDP 请求的源地址不同所造成的隐私及安全风险。
+udp-policy-not-supported-behaviour = reject
+# Surge VIF
+tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
+tun-included-routes = 192.168.1.12/32
+# >>>>>>>>>>>>>>>>>>
+network-framework = false
+tls-provider = default
+# >>>>>>>Line
+# > 增强版 Wi-Fi 助理
+# (在 Wi-Fi 网络不佳时尝试使用数据网络建立连接，请仅当使用不限量的数据流量时开启)
+wifi-assist = false
+# > Allow Hotspot Access（热点分享代理）
+allow-hotspot-access = true
+# > 兼容模式 (仅 iOS)
+# compatibility-mode = 0
+
+[Replica]
+# > 隐藏 Apple 请求
+hide-apple-request = false
+# > 隐藏崩溃追踪器请求
+hide-crash-reporter-request = true
+# > 隐藏 UDP 会话
+hide-udp = false
+# > 关键词过滤器
+# none（关闭关键词过滤器） / whitelist（blacklist（仅记录包含关键字的请求）） / blacklist（仅记录不包含关键字的请求） / pattern（匹配通配符的请求）
+keyword-filter-type = false
+
+[Host]
+# > Firebase Cloud Messaging
+mtalk.google.com = 108.177.125.188
+# > Google Dl
+dl.google.com = server:119.29.29.29
+dl.l.google.com = server:119.29.29.29
+update.googleapis.com = server:119.29.29.29
+# > PlayStation
+*.dl.playstation.net = server:119.29.29.29
+# > Router Admin Panel
+amplifi.lan = server:syslib // Ubiquiti Amplifi Router
+router.synology.com = server:syslib // Synology Router
+sila.razer.com = server:syslib // Razer Sila Router
+router.asus.com = server:syslib // Asus Router
+routerlogin.net = server:syslib // Netgear Router
+orbilogin.com = server:syslib // Netgear Obri Router
+www.LinksysSmartWiFi.com = server:syslib // Linksys Router
+LinksysSmartWiFi.com = server:syslib // Linksys Router
+myrouter.local = server:syslib // Linksys Router
+www.miwifi.com = server:syslib // Xiaomi Mi WiFi Router
+miwifi.com = server:syslib // Xiaomi Mi WiFi Router
+mediarouter.home = server:syslib // Huawei Router
+tplogin.cn = server:syslib // TP-Link Router
+tplinklogin.net = server:syslib // TP-Link Router
+melogin.cn = server:syslib // MERCURY Router
+falogin.cn = server:syslib // FAST Routers
+
+[MITM]
+skip-server-cert-verify = true
+tcp-connection = true
