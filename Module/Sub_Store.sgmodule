@@ -1,6 +1,5 @@
 #!name=Sub-Store
-#!desc=高级订阅管理工具 @Peng-YM（每日1:00更新）
-
+#!desc=高级订阅管理工具 @Peng-YM 每日1:00更新
 
 [MITM]
 hostname=%APPEND% sub.store
