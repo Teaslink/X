@@ -1,5 +1,8 @@
+#!name=Profile Module
+#!desc=General Settings Enhanced
+
 [General]
-skip-proxy = 192.168.0.0/24, 10.0.0.0/8, 172.16.0.0/12, 127.0.0.1, localhost, *.local
+skip-proxy = 192.168.0.0/24, 10.0.0.0/8, 172.16.0.0/12, 127.0.0.1, iosapps.itunes.apple.com, localhost, *.local
 exclude-simple-hostnames = true
 internet-test-url = http://taobao.com/
 proxy-test-url = http://www.apple.com/
