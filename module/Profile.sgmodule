@@ -1,0 +1,15 @@
+[General]
+skip-proxy = 192.168.0.0/24, 10.0.0.0/8, 172.16.0.0/12, 127.0.0.1, localhost, *.local
+exclude-simple-hostnames = true
+internet-test-url = http://taobao.com/
+proxy-test-url = http://www.apple.com/
+test-timeout = 2
+dns-server = 223.5.5.5, 114.114.114.114
+# encrypted-dns-server = https://223.5.5.5/ // 除非当地 ISP 有严重的 DNS 污染问题，否则没必要开启 DoH，传统 DNS 的性能最优，网络异常后恢复速度最快
+wifi-assist = true
+geoip-maxmind-url = https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+ipv6 = false
+ipv6-vif = disabled
+allow-wifi-access = false
+loglevel = notify
+http-api-web-dashboard = true
