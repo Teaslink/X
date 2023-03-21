@@ -1,0 +1,13 @@
+#!name=DIRECT MODE
+#!desc=私人使用，一些需要直连的场景
+
+[Rule]
+# CARRIER 匹配
+// 3HK
+#CELLULAR-CARRIER,454-03,DIRECT
+
+# SSID 匹配
+// Home
+SUBNET,JOEY,DIRECT
+// Office
+SUBNET,1512,DIRECT
