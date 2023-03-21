@@ -6,4 +6,4 @@
 functionstatus = script-name=functionstatus, title="Surge", content="请刷新", update-interval=60
 
 [Script]
-functionstatus = type=generic, script-path=https://raw.githubusercontent.com/teaslink/Surge/main/Script/Functionstatus.js
+functionstatus = type=generic, script-path=https://raw.githubusercontent.com/teaslink/surge/main/script/Functionstatus.js
