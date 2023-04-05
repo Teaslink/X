@@ -1,0 +1,21 @@
+#!name=YouTube
+#!desc=YouTube videos removes ads. Dler version
+
+[Rule]
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/.+?)(&ctier=L|\/ctier\/L)((&|\/).+?)(,ctier|%2Cctier)((,|%2C),REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+(&oad|ctier),REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost,REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.youtube\.com\/api\/stats\/ads,REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.youtube\.com\/get_midroll_,REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.youtube\.com\/(pagead|ptracking)\/,REJECT-TINYGIF
+URL-REGEX,https?:\/\/.+\.youtube\.com\/_get_ads,REJECT-TINYGIF
+URL-REGEX,https?:\/\/premiumyva\.appspot\.com\/vmclickstoadvertisersite,REJECT-TINYGIF
+URL-REGEX,https?:\/\/s0\.2mdn\.net\/ads\/,REJECT-TINYGIF
+URL-REGEX,https?:\/\/stats\.tubemogul\.com\/stats\/,REJECT-TINYGIF
+URL-REGEX,https?:\/\/youtubei\.googleapis\.com\/.+ad_break,REJECT-TINYGIF
+URL-REGEX,https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+(ad|log),REJECT-TINYGIF
+URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?.*adformat,REJECT-TINYGIF
+URL-REGEX,https?:\/\/(?!redirector)[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)(ctier=L)(&.+),REJECT-TINYGIF
+
+[MITM]
+hostname = %APPEND% *.googlevideo.com, *.youtube.com, youtubei.googleapis.com
