@@ -6,12 +6,12 @@
 [Rule]
 AND,((PROTOCOL,UDP), (DEST-PORT,443)),REJECT-NO-DROP
 
-# > 通过访问浏览器 http://teaslink.com 来访问路由器配置网页，URL将始终重定向到当前网络中的网关地址
+# > 通过访问浏览器 http://mutu.com 来访问路由器配置网页，URL将始终重定向到当前网络中的网关地址
 [General]
-force-http-engine-hosts=%APPEND% teaslink.com, www.teaslink.com
+force-http-engine-hosts=%APPEND% mutu.com, www.mutu.com
 
 [URL Rewrite]
-^https?://(|www\.)teaslink\.com http://{{{GATEWAY_ADDRESS}}} 302
+^https?://(|www\.)mutu\.com http://{{{GATEWAY_ADDRESS}}} 302
 
 [MITM]
-hostname = %APPEND% teaslink.com, www.teaslink.com
+hostname = %APPEND% mutu.com, www.mutu.com
