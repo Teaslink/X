@@ -93,7 +93,7 @@ content:tlist[nowlist][0]+":"+today(tnumcount(nowlist))+","+tlist[Number(nowlist
 function title_random(num){
   let r = Math.floor((Math.random()*10)+1);
   let dic = {
-    1:"距离放假，还要摸鱼多少天？",
+    1:"我好想我家的娃呀？",
     2:"坚持住，就快放假啦！",
     3:"上班好累呀，好想放假",
     4:"努力，我还能加班24小时！",
