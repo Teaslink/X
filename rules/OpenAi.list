@@ -1,7 +1,10 @@
 # NAME: AI
 # Date: 20230304
+
+DOMAIN,ai.com
+DOMAIN,ai.cn
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN,cdn.auth0.com
-DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
