@@ -19,8 +19,9 @@ PROCESS-NAME,webtorrent
 PROCESS-NAME,webtorrenthelper
 PROCESS-NAME,weiyun
 
-# > Dler Cloud
+# > Proxy
 #DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,nexconvert.com
 
 # > Apple CDN
 PROCESS-NAME,storedownloadd
