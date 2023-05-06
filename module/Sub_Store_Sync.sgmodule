@@ -1,5 +1,5 @@
 #!name=Sub-Store Sync
-#!desc=托管订阅更新(每日17点更新一次）
+#!desc=托管订阅更新
 #!system=ios
 
 [Script]
