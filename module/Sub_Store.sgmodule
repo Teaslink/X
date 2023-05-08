@@ -1,5 +1,5 @@
 #!name=Sub-Store
-#!desc=高级订阅管理工具 修改版 @Peng-YM
+#!desc=高级订阅管理工具 
 
 [MITM]
 hostname=%APPEND% sub.store
