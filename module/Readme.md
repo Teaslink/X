@@ -1,5 +1,11 @@
-### 3. 模块链接（进入链接以查看使用方式）
-> **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
+### 模块链接（进入链接以查看使用方式）
+> **必需**
+>**BOXJS :**https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule<br>
+
+
+
+> **腾讯云DoH :** https://raw.githubusercontent.com/teaslink/surge/release/module/DOH/DNSPod-DoH.sgmodule<br>
+> **阿里云DoH :** https://raw.githubusercontent.com/teaslink/surge/release/module/DOH/Ali-DoH.sgmodule<br>
 
 > **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/WARP<br>
 
