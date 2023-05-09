@@ -1,14 +1,11 @@
 ### 模块链接（进入链接以查看使用方式）
 > **必需**
 >**BOXJS :**https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule<br>
-> **Sub-Store :** https://raw.githubusercontent.com/teaslink/surge/release/module/Sub_Store.sgmodule
-<br>
+> **Sub-Store :** https://raw.githubusercontent.com/teaslink/surge/release/module/Sub_Store.sgmodule<br>
 > **Cloudflare :** https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule<br>
 > **JD_Price :** https://raw.githubusercontent.com/teaslink/surge/release/module/JD_Price.sgmoudle<br>
 > **YoutubePrice :** https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule<br>
-
 > **Others**
-> 
 > **腾讯云DoH :** https://raw.githubusercontent.com/teaslink/surge/release/module/DOH/DNSPod-DoH.sgmodule<br>
 > **阿里云DoH :** https://raw.githubusercontent.com/teaslink/surge/release/module/DOH/Ali-DoH.sgmodule<br>
 
@@ -26,7 +23,6 @@
 
 > **流媒体解锁检测Lite :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Stream-All-Lite<br>
 
-
 > **机场流量信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Sub-info<br>
 
 > **Surge启动时长 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Surge-Pro<br>
@@ -36,7 +32,6 @@
 > **TestFlight下载修正/账户管理 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/TestFlight<br>
 
 > **Safari 谷歌搜索重定向 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/GoogleRewrite<br>
-
 
 > **🌐 通用设置增强 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/General<br>
 
