@@ -1,11 +1,12 @@
 ### 模块链接（进入链接以查看使用方式）
 > **必需**
 
->**BOXJS :**https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule<br>
+>**BOXJS :** https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule<br>
 > **Sub-Store :** https://raw.githubusercontent.com/teaslink/surge/release/module/Sub_Store.sgmodule<br>
 > **Cloudflare :** https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule<br>
 > **JD_Price :** https://raw.githubusercontent.com/teaslink/surge/release/module/JD_Price.sgmoudle<br>
 > **YoutubePrice :** https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule<br>
+> **Googlerewrite :** https://raw.githubusercontent.com/teaslink/surge/release/module/Googlerewrite.sgmoudles<br>
 
 
 > **Others**
