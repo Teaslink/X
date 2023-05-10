@@ -5,4 +5,4 @@
 AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,SpeedLimit)),Apple
 
 [Script]
-SpeedLimit = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/teaslink/surge/release/script/SpeedLimit.js,argument=Group=Apple&policy=Booster&time=15&minSpeed=15
+SpeedLimit = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument=Group=Apple&policy=DIRECT,Booster&time=15&minSpeed=45
