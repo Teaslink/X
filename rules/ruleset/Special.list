@@ -1,7 +1,5 @@
 # proxy
 DOMAIN-SUFFIX,sub.nexconvert.com
-# Spotify
-DOMAIN-SUFFIX,ap.spotify.com
 # Download (For MacOS)
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
