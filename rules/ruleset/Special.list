@@ -20,5 +20,10 @@ PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
-
-
+# 1password
+PROCESS-NAME,1password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,cache.agilebits.com
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
