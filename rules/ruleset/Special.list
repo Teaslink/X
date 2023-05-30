@@ -1,6 +1,12 @@
 # proxy
 DOMAIN-SUFFIX,sub.nexconvert.com
 # Download (For MacOS)
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
 PROCESS-NAME,clash
@@ -20,10 +26,3 @@ PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
-# 1password
-#PROCESS-NAME,1password
-#DOMAIN-SUFFIX,1password.com
-#DOMAIN-SUFFIX,cache.agilebits.com
-#DOMAIN-SUFFIX,1passwordservices.com
-#DOMAIN-SUFFIX,1password.ca
-#DOMAIN-SUFFIX,1password.eu
