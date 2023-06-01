@@ -1,5 +1,29 @@
-# proxy
-DOMAIN-SUFFIX,sub.nexconvert.com
+# > Subscription
+DOMAIN-SUFFIX,ypftrh.xyz
+
+# > Spotify
+DOMAIN-SUFFIX,ap.spotify.com
+
+# > Google
+DOMAIN,mtalk.google.com,Direct
+DOMAIN,mobile-gtalk.l.google.com,DIRECT
+DOMAIN,alt1-mtalk.google.com,Direct
+DOMAIN,alt2-mtalk.google.com,Direct
+DOMAIN,alt3-mtalk.google.com,Direct
+DOMAIN,alt4-mtalk.google.com,Direct
+DOMAIN,alt5-mtalk.google.com,Direct
+DOMAIN,alt6-mtalk.google.com,Direct
+DOMAIN,alt7-mtalk.google.com,Direct
+DOMAIN,alt8-mtalk.google.com,Direct
+DOMAIN,alt9-mtalk.google.com,Direct
+DOMAIN-SUFFIX,mobile-gtalk.l.google.com,Direct
+
+# > Client
+# > Proxy
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+PROCESS-NAME,UUBooster
+
 # Download (For MacOS)
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-KEYWORD,aria2
@@ -7,13 +31,11 @@ DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
-PROCESS-NAME,v2ray
 PROCESS-NAME,xray
 PROCESS-NAME,clash
 PROCESS-NAME,naive
 PROCESS-NAME,trojan
 PROCESS-NAME,trojan-go
-PROCESS-NAME,ss-local
 PROCESS-NAME,privoxy
 PROCESS-NAME,leaf
 PROCESS-NAME,Thunder
@@ -21,8 +43,8 @@ PROCESS-NAME,DownloadService
 PROCESS-NAME,qBittorrent
 PROCESS-NAME,Transmission
 PROCESS-NAME,fdm
-PROCESS-NAME,aria2c
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
