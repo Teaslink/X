@@ -26,6 +26,6 @@ DOMAIN-SUFFIX,twimg.com
 # Wikimedia Foundation
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
-# LinkedIn
-DOMAIN-KEYWORD,linkedin
-DOMAIN-SUFFIX,linkedin.com
+#Others
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,ytimg.com
