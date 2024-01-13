@@ -1,6 +1,3 @@
-# Craft
-#DOMAIN,api2.amplitude.com
-#DOMAIN,api.craft.do
 # China Apps
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
