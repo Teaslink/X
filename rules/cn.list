@@ -1,6 +1,6 @@
 # Special
 DOMAIN-SUFFIX,ypftrh.xyz // nodes Subscription
-DOMAIN-SUFFIX,huacloud.xyz //flower node
+DOMAIN-SUFFIX,api.huacloud.xyz //flower node
 # China Apps
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
