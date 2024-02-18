@@ -2,6 +2,7 @@
 #!desc= only for mac
 
 [Rule]
+DOMAIN-SUFFIX,culturedcode.com,DIRECT
 PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,clash,DIRECT
