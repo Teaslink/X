@@ -1,8 +1,7 @@
-#!name= profile Download (For MacOS)
-#!desc= only for mac
+#!name= Rule_Enhanced (For MacOS)
+#!desc= Only for mac
 
 [Rule]
-DOMAIN-SUFFIX,culturedcode.com,AI
 PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,clash,DIRECT
