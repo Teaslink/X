@@ -1,3 +1,4 @@
+# 私有网络专用域名列表
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,asusrouter.com
