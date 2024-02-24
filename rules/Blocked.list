@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,culturedcode.com //thing3
 DOMAIN-SUFFIX,nssurge.com //surge
 DOMAIN-SUFFIX,vercel.app //sub-store
+DOMAIN-SUFFIX,linkedin.com
 # > Blankwonder
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
@@ -25,4 +26,3 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
-#
