@@ -8,3 +8,9 @@ DOMAIN,imap-mail.outlook.com
 DOMAIN,smtp-mail.outlook.com
 # Apple Mail App
 # PROCESS-NAME,Mail
+# Spark
+#DOMAIN-SUFFIX,amplitude.com
+#DOMAIN-SUFFIX,firebaseio.com
+#DOMAIN-SUFFIX,hockeyapp.net
+#DOMAIN-SUFFIX,readdle.com
+#DOMAIN-SUFFIX,smartmailcloud.com
