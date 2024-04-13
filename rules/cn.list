@@ -1,8 +1,5 @@
 # Special
 DOMAIN-SUFFIX,ypftrh.xyz // nodes Subscription
-DOMAIN-SUFFIX,api.huacloud.xyz //flower node
-DOMAIN,api.flowercloud.xyz
-
 #---mini
 # China Apps
 USER-AGENT,MicroMessenger Client
