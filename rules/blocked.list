@@ -6,32 +6,38 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,craft.do
 # > Blankwonder and others
-DOMAIN-SUFFIX,tw
+# Alphabet
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+# Instagram
+DOMAIN-KEYWORD,instagram
+# Meta
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+# Twitter
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
+# Wikimedia Foundation
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+
+DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
