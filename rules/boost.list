@@ -1,0 +1,44 @@
+DOMAIN,api.mixpanel.com
+DOMAIN,api.termius.com
+DOMAIN,ocsp.digicert.com
+DOMAIN,ocsp.pki.goog
+DOMAIN-SUFFIX,android.com //mini
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,ampproject.org //mini
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,fivecdm.com
+DOMAIN-SUFFIX,fb.me //mini
+DOMAIN-SUFFIX,fbcdn.net //mini
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,githubusercontent.com //mini
+DOMAIN-SUFFIX,letsencrypt.org  //mini
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,tw //mini
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,oculuscdn.com //mini
+DOMAIN-SUFFIX,oculus.com //mini
+DOMAIN-KEYWORD,blogspot //mini
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,dropbox //mini
+DOMAIN-KEYWORD,facebook //mini
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,instagram //mini
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,whatsapp //mini
