@@ -1,19 +1,19 @@
 DOMAIN,api.mixpanel.com
 DOMAIN,api.termius.com
-DOMAIN,ocsp.digicert.com
-DOMAIN,ocsp.pki.goog
+DOMAIN,ocsp.digicert.com //验证数字证书
+DOMAIN,ocsp.pki.goog //验证数字证书
 DOMAIN-SUFFIX,android.com //mini
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,ampproject.org //mini
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,fivecdm.com
-DOMAIN-SUFFIX,fb.me //mini
+DOMAIN-SUFFIX,fb.me //mini fb短链接服务
 DOMAIN-SUFFIX,fbcdn.net //mini
-DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ggpht.com //用于存储和提供图像和照片 google
 DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gstatic.com //用于提供静态资源的托管和分发 google
 DOMAIN-SUFFIX,githubusercontent.com //mini
-DOMAIN-SUFFIX,letsencrypt.org  //mini
+DOMAIN-SUFFIX,letsencrypt.org  //mini 证书颁发机构
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,mzstatic.com
