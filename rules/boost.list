@@ -5,6 +5,7 @@ DOMAIN,ocsp.pki.goog //验证数字证书
 DOMAIN-SUFFIX,android.com //mini
 DOMAIN-SUFFIX,ampproject.org //mini
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,fb.me //mini fb短链接服务
 DOMAIN-SUFFIX,fbcdn.net //mini
@@ -13,14 +14,18 @@ DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gstatic.com //用于提供静态资源的托管和分发 google
 DOMAIN-SUFFIX,githubusercontent.com //mini
 DOMAIN-SUFFIX,letsencrypt.org  //mini 证书颁发机构
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,skype.
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,twimg.com
