@@ -3,7 +3,6 @@ DOMAIN,api.termius.com
 DOMAIN,ocsp.digicert.com //验证数字证书
 DOMAIN,ocsp.pki.goog //验证数字证书
 DOMAIN-SUFFIX,android.com //mini
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,ampproject.org //mini
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,fivecdm.com
