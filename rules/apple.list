@@ -1,3 +1,4 @@
+######################################### MINI
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
@@ -11,3 +12,34 @@ DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
 DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,api.smoot.apple.cn
+#DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-dns.net
+#DOMAIN-SUFFIX,apple.co
+#DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,appstore.com
+#DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,crashlytics.com
+#DOMAIN-SUFFIX,icloud.com
+#DOMAIN-SUFFIX,icloud-content.com
+#DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,organicfruitapps.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,appsto.re
+#DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+PROCESS-NAME,trustd
+PROCESS-NAME,netbiosd
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,apsd
+PROCESS-NAME,fmfd
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
