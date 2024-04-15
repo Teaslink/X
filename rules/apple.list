@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+#DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
 #DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
