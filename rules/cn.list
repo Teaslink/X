@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
 # > IP Query
 DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
