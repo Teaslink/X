@@ -1,6 +1,3 @@
-# Special
-DOMAIN-SUFFIX,nssurge.com //surge
-DOMAIN-SUFFIX,vercel.app //sub-store
 # > Blankwonder 
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
@@ -37,3 +34,6 @@ DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
+# Special
+DOMAIN-SUFFIX,nssurge.com //surge
+DOMAIN-SUFFIX,vercel.app //sub-store
