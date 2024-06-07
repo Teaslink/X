@@ -7,14 +7,24 @@ DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple-dns.net //yebi
+DOMAIN-SUFFIX,apple-cloudkit.com //yebi
+DOMAIN-SUFFIX,apple-mapkit.com //yebi
+DOMAIN-SUFFIX,applemusic.com //yebi
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,apple.com.akadns.net //yebi
+DOMAIN-KEYWORD,apple.com.edgekey.net //yebi
+DOMAIN-KEYWORD,apple-support.akadns.net //yebi
+DOMAIN-KEYWORD,icloud.com.akadns.net //yebi
+IP-ASN,714 //yebi
+IP-ASN,6185 //yebi
 #########################################
 # Sukka's Ruleset - Apple China Special Domains
 # Last Updated: 2024-05-07T17:16:27.651Z
