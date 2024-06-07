@@ -26,14 +26,8 @@ DOMAIN-KEYWORD,icloud.com.akadns.net //yebi
 IP-ASN,714 //yebi
 IP-ASN,6185 //yebi
 #########################################
-# Sukka's Ruleset - Apple China Special Domains
-# Last Updated: 2024-05-07T17:16:27.651Z
-# Size: 9
-# License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
-#
-# This file contains domains of Apple, Inc that have host service specific for the Mainland China.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
