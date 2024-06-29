@@ -1,0 +1,26 @@
+#########################################
+# Sukka's Ruleset - CDN Domains
+# Last Updated: 2024-06-19T02:17:29.916Z
+# Size: 15
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# This file contains object storage and static assets CDN domains.
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-KEYWORD,-files.gitbook.io
+DOMAIN-KEYWORD,vod-adaptive.akamaized.net
+DOMAIN-KEYWORD,web-assets.zendesk
+DOMAIN-KEYWORD,-res.cloudinary.com
+DOMAIN-KEYWORD,dsn.algolia.net
+DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
+DOMAIN-WILDCARD,proxy-*.dailymotion.com
+DOMAIN-WILDCARD,static*.tgstat.ru
+DOMAIN-WILDCARD,ocsp.*.amazontrust.com
+DOMAIN-WILDCARD,s3.*.wasabisys.com
+DOMAIN-WILDCARD,cdn?-thumbs.pornhost.com
+DOMAIN-WILDCARD,cdn?-dl.pornhost.com
+URL-REGEX,^http://www\.microsoft\.com/pki/
+URL-REGEX,^http://www\.microsoft\.com/pkiops/
+################## EOF ##################
