@@ -11,7 +11,6 @@
 # Data from:
 #  - https://github.com/felixonmars/dnsmasq-china-list
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
