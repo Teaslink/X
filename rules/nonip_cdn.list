@@ -8,7 +8,6 @@
 #
 # This file contains object storage and static assets CDN domains.
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
