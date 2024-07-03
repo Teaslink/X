@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openaicom-api
-
 # Copilot 2024-04-14 16:05:36
 DOMAIN,api.githubcopilot.com
 DOMAIN,bat.bing.com
@@ -84,7 +83,6 @@ DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN,www.bingapis.com
 DOMAIN-SUFFIX,bing.com
-
 # Bing AI 2024-02-04 21:29:04
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -93,13 +91,11 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
-
 # Gemini 2024-03-31 15:02:45
 DOMAIN,aistudio.google.com
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
-
 # Claude 2024-04-14 16:05:36
 IP-CIDR,160.79.104.0/23
 IP-CIDR6,2607:6bc0::/48
