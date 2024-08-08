@@ -14,7 +14,6 @@ DOMAIN,activate.wip2.adobe.com
 DOMAIN,activate.wip3.adobe.com
 DOMAIN,activate.wip4.adobe.com
 DOMAIN,addons.mozilla.org
-DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,adobe-dns-1.adobe.com
 DOMAIN,adobe-dns-2.adobe.com
 DOMAIN,adobe-dns-3.adobe.com
@@ -9897,7 +9896,6 @@ DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,ggpds.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,ggpht.com //用于存储和提供图像和照片 google
 DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,ggssl.com
 DOMAIN-SUFFIX,ghcr.io
@@ -16560,7 +16558,6 @@ DOMAIN-SUFFIX,nsfw.xxx
 DOMAIN-SUFFIX,nsfw247.to
 DOMAIN-SUFFIX,nsfwmemes.com
 DOMAIN-SUFFIX,nsimg.net
-DOMAIN-SUFFIX,nssurge.com //surge
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ntd.com
 DOMAIN-SUFFIX,ntd.tv
@@ -22661,8 +22658,6 @@ DOMAIN-SUFFIX,vepornhd.club
 DOMAIN-SUFFIX,veporno.net
 DOMAIN-SUFFIX,vercel-dns.com
 DOMAIN-SUFFIX,vercel-status.com
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.app //sub-store
 DOMAIN-SUFFIX,vercel.blog
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.events
