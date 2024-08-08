@@ -127,9 +127,3 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-#scomper
-USER-AGENT,geod*
-USER-AGENT,App%20Store*
-USER-AGENT,MacAppStore*
-USER-AGENT,%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0* // 用户代理中包含软件更新（URL编码形式）的流量直接发送，不通过代理
-DOMAIN,reserve-prime.apple.com  // Apple的预约服务域名
