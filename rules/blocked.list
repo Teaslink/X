@@ -475,17 +475,13 @@ DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,zeenews-fonts.s3.amazonaws.com
 DOMAIN,ztedevices.com
 DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,blogspot //mini
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,dropbox //mini
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,facebook //mini
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,instagram //mini
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,pinterest
@@ -493,7 +489,6 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,whatsapp //mini
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -1927,7 +1922,6 @@ DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,ampproject.org //mini
 DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,ams02.space
 DOMAIN-SUFFIX,amsterdamhotescort.com
@@ -1972,7 +1966,6 @@ DOMAIN-SUFFIX,and
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,android.com //mini
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidplus.co
 DOMAIN-SUFFIX,androidtv.com
@@ -8593,7 +8586,6 @@ DOMAIN-SUFFIX,fb.careers
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fb.me //mini fb短链接服务
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbaddins.com
@@ -8601,7 +8593,6 @@ DOMAIN-SUFFIX,fbbmarket.com
 DOMAIN-SUFFIX,fbboostyourbusiness.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbcdn.net //mini
 DOMAIN-SUFFIX,fbf8.com
 DOMAIN-SUFFIX,fbfeedback.com
 DOMAIN-SUFFIX,fbhome.com
@@ -9896,7 +9887,6 @@ DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubusercontent.com //mini
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
@@ -9953,8 +9943,6 @@ DOMAIN-SUFFIX,glorystar.me
 DOMAIN-SUFFIX,gluckman.com
 DOMAIN-SUFFIX,glype.com
 DOMAIN-SUFFIX,glyphsapp.com
-DOMAIN-SUFFIX,gmail
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,gmhz.org
 DOMAIN-SUFFIX,gmll.org
@@ -10454,7 +10442,6 @@ DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gslink.us
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,gstatic-cn.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gstatic.com //用于提供静态资源的托管和分发 google
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gt536.top
@@ -13675,7 +13662,6 @@ DOMAIN-SUFFIX,letscorp.net
 DOMAIN-SUFFIX,letsdoeit.com
 DOMAIN-SUFFIX,letsencrypt.com
 DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,letsencrypt.org  //mini 证书颁发机构
 DOMAIN-SUFFIX,letsfuckme.net
 DOMAIN-SUFFIX,letsjerk.cc
 DOMAIN-SUFFIX,lettherebeporn.com
@@ -16737,14 +16723,12 @@ DOMAIN-SUFFIX,october-review.org
 DOMAIN-SUFFIX,ocul.us
 DOMAIN-SUFFIX,oculus-china.com
 DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculus.com //mini
 DOMAIN-SUFFIX,oculus2014.com
 DOMAIN-SUFFIX,oculus3d.com
 DOMAIN-SUFFIX,oculusblog.com
 DOMAIN-SUFFIX,oculusbrand.com
 DOMAIN-SUFFIX,oculuscasino.net
 DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculuscdn.com //mini
 DOMAIN-SUFFIX,oculusconnect.com
 DOMAIN-SUFFIX,oculusdiving.com
 DOMAIN-SUFFIX,oculusforbusiness.com
@@ -21996,7 +21980,6 @@ DOMAIN-SUFFIX,tvplayvideos.com
 DOMAIN-SUFFIX,tvpromise.com
 DOMAIN-SUFFIX,tvunetworks.com
 DOMAIN-SUFFIX,tw
-DOMAIN-SUFFIX,tw //mini
 DOMAIN-SUFFIX,tw-blog.com
 DOMAIN-SUFFIX,tw-npo.org
 DOMAIN-SUFFIX,tw.gigacircle.com
