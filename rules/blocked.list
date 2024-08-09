@@ -1,3 +1,8 @@
+# Own
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,nssurge.com
+PROCESS-NAME,Surge
+#
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
 DOMAIN,3dns-3.adobe.com
