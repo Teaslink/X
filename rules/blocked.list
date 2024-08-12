@@ -1,5 +1,6 @@
 # MyList && Other
-DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.com //1pass
+DOMAIN-SUFFIX,agilebits.com //1pass
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
