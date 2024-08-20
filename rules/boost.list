@@ -338,3 +338,4 @@ IP-CIDR6,2c0f:f248::/32,no-resolve
 # Cash app
 DOMAIN-SUFFIX,cash.app
 DOMAIN-SUFFIX,squarecdn.com
+DOMAIN-SUFFIX,squareup.com
