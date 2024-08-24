@@ -32,7 +32,23 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
-
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,probit.com
+DOMAIN-SUFFIX,upbit.com
+# > Binane
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,yingwangtech.cloud
+# > Bybit
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 # NAME: PayPal
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
@@ -282,7 +298,6 @@ DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal
-
 # NAME: Cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
