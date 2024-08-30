@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 ################## EOF ##################
+#LIU
+DOMAIN-SUFFIX,store.apple.com,DIRECT // Apple Store Online
