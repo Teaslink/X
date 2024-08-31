@@ -1,7 +1,5 @@
 # edited at 8.28
-# Cloudflare
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflare.com
+
 # Cash app
 DOMAIN-SUFFIX,cash.app
 DOMAIN-SUFFIX,squarecdn.com
