@@ -1,0 +1,64 @@
+#########################################
+# Sukka's Ruleset - Stream Services: North America
+# Last Updated: 2024-06-02T13:44:39.811Z
+# Size: 45
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# - Fox Now
+# - Fox+
+# - Hulu
+# - Hulu Japan
+# - SHOWTIME
+# - encoreTVB
+# - Discovery+
+# - Paramount+
+# - Peacock
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,dashasiafox.akamaized.netflix
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,sho.com
+DOMAIN-SUFFIX,showtime.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,FOX NOW*
+USER-AGENT,FOXPlus*
+USER-AGENT,Hulu*
+USER-AGENT,encoreTVB*
+USER-AGENT,TVer-Release*
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
+USER-AGENT,PPlus*
+USER-AGENT,PeacockMobile*
+PROCESS-NAME,com.hulu.plus
+################## EOF ##################
