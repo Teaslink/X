@@ -1,0 +1,65 @@
+#########################################
+# Sukka's Ruleset - Stream Services: Hong Kong
+# Last Updated: 2024-06-03T11:22:54.787Z
+# Size: 50
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# - Now E
+# - ViuTV
+# - myTV Super
+# - HBO Asia
+# - Bilibili International
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,api.viu.now.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,players.brightcove.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-KEYWORD,.hbogoasia.
+USER-AGENT,Viu*
+USER-AGENT,mytv*
+USER-AGENT,HBO GO PROD HKG*
+USER-AGENT,HBO*
+PROCESS-NAME,com.viu.pad
+PROCESS-NAME,com.viu.phone
+PROCESS-NAME,com.vuclip.viu
+PROCESS-NAME,com.hktve.viutv
+PROCESS-NAME,com.bstar.intl
+################## EOF ##################
