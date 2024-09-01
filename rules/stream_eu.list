@@ -1,0 +1,22 @@
+#########################################
+# Sukka's Ruleset - Stream Services: Europe
+# Last Updated: 2024-04-03T16:26:12.679Z
+# Size: 10
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# - ITV
+# - BBC
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+USER-AGENT,ITV_Player*
+USER-AGENT,BBCiPlayer*
+################## EOF ##################
