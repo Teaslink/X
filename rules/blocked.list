@@ -1,6 +1,20 @@
+# 20240909
 # MyList && Other
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+# 1password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-KEYWORD,1password
+# thing3
+DOMAIN,cloud.culturedcode.com
+DOMAIN-SUFFIX,culturedcode.com
+# list
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
@@ -13,7 +27,6 @@ DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -40,20 +53,13 @@ DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,oculus
 # Top Blocked Sites
 DOMAIN-SUFFIX,4sqi.net
@@ -73,7 +79,6 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bandwagonhost.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogger.com
@@ -193,12 +198,9 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
 DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,maven.org
@@ -231,9 +233,7 @@ DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.com
-DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -259,7 +259,6 @@ DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
@@ -270,11 +269,9 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
@@ -394,9 +391,6 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
 # Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,fanbox.cc
 # Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,hockeyapp.net
@@ -429,17 +423,13 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-KEYWORD,ttvnw
 # Twitter
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,x.com
 # Telegram
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
@@ -506,7 +496,6 @@ DOMAIN-SUFFIX,potplayer.tv
 IP-CIDR,13.251.24.0/24,no-resolve
 IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,17.252.156.0/23,no-resolve
-
 #########################################
 # Sukka's Ruleset - General Global Services
 # Last Updated: 2024-08-26T02:00:07.813Z
@@ -536,7 +525,6 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,forms.gle
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
@@ -601,7 +589,6 @@ DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,globo.com
@@ -631,7 +618,6 @@ DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,aex.com
@@ -911,7 +897,6 @@ DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,sendgrid.net
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sex.com
 DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,short.io
@@ -936,7 +921,6 @@ DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,tenor.com
-DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,themoviedb.org
@@ -1091,8 +1075,6 @@ DOMAIN,xlrocket.blog
 DOMAIN-SUFFIX,flightyapp.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,doubleverify.com
-DOMAIN,cloud.culturedcode.com
-DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN,app.smartmailcloud.com
 DOMAIN-SUFFIX,serving-sys.com
@@ -1109,7 +1091,6 @@ DOMAIN-SUFFIX,mql5.com
 DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,hovrly.com
-DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN,p44-buy.itunes-apple.com.akadns.net
