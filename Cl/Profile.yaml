@@ -1,4 +1,4 @@
-# 适用版本：所有使用 Mihomo 内核的程序
+# 适用版本：所有使用 Mihomo 内核的程序 Clash
 
 port: 7890
 socks-port: 7891
