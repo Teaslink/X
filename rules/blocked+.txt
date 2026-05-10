@@ -1,4 +1,0 @@
-# Proxy+
-# > Google
-GEOIP,GOOGLE
-GEOIP,NETFLIX
