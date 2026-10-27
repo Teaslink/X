@@ -156,7 +156,7 @@ rule-providers:
 
   Netflix:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix_Classical_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/netflix.yaml'
     path: './RuleSet/Netflix.yaml'
 
   Disney+:
@@ -166,17 +166,17 @@ rule-providers:
 
   YouTube:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/youtube.yaml'
     path: './RuleSet/YouTube.yaml'
 
   Apple:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple_Classical_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/apple.yaml'
     path: './RuleSet/Apple.yaml'
 
   Microsoft:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/microsoft.yaml'
     path: './RuleSet/Microsoft.yaml'
     
   Nintendo:
@@ -211,22 +211,22 @@ rule-providers:
 
   OpenAI:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/ai.yaml'
     path: './RuleSet/OpenAI.yaml'
     
   Proxy:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Classical_No_Resolve.yaml'
+    url: 'https://rules.teaslink.com/clash/proxy.yaml'
     path: './RuleSet/Proxy.yaml'
 
   China:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml'
+    url: 'https://rules.teaslink.com/clash/direct.yaml'
     path: './RuleSet/China.yaml'
 
   LAN:
     <<: *RuleSet
-    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml'
+    url: 'https://rules.teaslink.com/clash/lan.yaml'
     path: './RuleSet/LAN.yaml'
 
 # 分流规则指向
