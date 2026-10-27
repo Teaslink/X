@@ -351,10 +351,6 @@ rule-providers:
 
 # 分流规则指向
 rules:
- - DOMAIN,dm.410229371.xyz,DIRECT
- - DOMAIN,aws.410229371.xyz,DIRECT
- - DOMAIN,anytls.410229371.xyz,DIRECT
- - IP-CIDR,179.255.120.234/32,DIRECT,no-resolve
  - DST-PORT,123,DIRECT
  - DOMAIN-SUFFIX,ipdata.co,IPtest
  - DOMAIN-SUFFIX,linkbroad.com,DIRECT
